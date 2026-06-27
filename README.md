@@ -1,16 +1,20 @@
-## Hi there 👋
+# SairyTheKing
 
-<!--
-**SairyTheKing/SairyTheKing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A software developer focused on building clean, efficient applications and exploring new technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stack & Tools
+
+* **Languages:** JavaScript, TypeScript, Python
+* **Frameworks:** Node.js, React, Express
+* **Tools:** Git, Docker, Linux
+
+---
+
+### GitHub Metrics
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=SairyTheKing&show_icons=true&theme=dark&hide_border=true" alt="SairyTheKing Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SairyTheKing&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
+</p>
