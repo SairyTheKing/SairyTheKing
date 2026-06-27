@@ -1,18 +1,8 @@
 # SairyTheKing
 
-A software developer focused on building clean, efficient applications and exploring new technologies.
+A roblox developer and a coder
 
----
-
-### Stack & Tools
-
-* **Languages:** JavaScript, TypeScript, Python
-* **Frameworks:** Node.js, React, Express
-* **Tools:** Git, Docker, Linux
-
----
-
-### GitHub Metrics
+* **Languages:** Lua/Luau
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=SairyTheKing&show_icons=true&theme=dark&hide_border=true" alt="SairyTheKing Stats" width="48%" />
